@@ -1,0 +1,123 @@
+*
+{
+    background-color: #2B2B2B;
+    text-decoration: none;
+    margin: 0%;
+}
+/*navigator class*/
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: nowrap;
+    Padding:20px 50px 20px 50px
+   
+}
+/*logo*/
+#divlogo {
+    display: flex;
+    justify-content: center;
+    width: 243px;
+    height: 32px;
+    
+}
+/*div logoshi img-s gavuwere id-ad id1*/
+#id1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    width: 32px;
+    height: 32px;
+  
+    
+}
+/*ul tag-is id navshi */
+#first {
+    list-style: none;
+    display: flex;
+    align-items: center;
+   
+  
+}
+/*ul tagis shvilobili elementi */
+li{
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+/*li-s shvilobili elementi romelic gamoviyene texstis feris shesacvlelad */
+a {
+    color: #FFFFFF;
+}
+/* aq weria sing up gilakis borderis feri zoma vizualri mxare   */
+button {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #A259FF;
+    border-radius: 20px;
+    width: 152px;
+    height: 60px;
+    padding: 0px 30px 0px 30px;
+ 
+ 
+    
+}
+
+
+#a1 {
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #A259FF;
+    
+    
+    
+}
+  #img1 {
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    background-color: #A259FF;
+    
+    
+    
+    
+
+}
+/*mocemulia NFT MARKETPLACE-s shigtavsis informacia*/
+#a2 {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.div1 {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    margin: 30px;
+    
+}
+.img1 {
+    width: 510px;
+    height: 510px;
+    
+}
+h1 {
+    font-size: 67px;
+    color: #FFFFFF;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+.paragraph1 {
+    font-size: 22px;
+    color: #FFFFFF;
+}
+.text {
+    margin-right: 50px;
+}
+
